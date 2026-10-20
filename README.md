@@ -42,3 +42,4 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /nologo /codepage:65001 
 - 认证服务器地址 / AC 参数默认按某高校 Dr.COM 门户配置（`172.16.2.100` / `ecjtu_nic_ME60`）；
   其它学校的 Dr.COM 门户可能需要在 `src\Program.cs` 的 `Net.PortalLogin` 中修改对应常量。
 - 程序目录会生成 `ECJTU-Net.ini`（配置）和 `ECJTU-Net.log`（日志），已在 .gitignore 中排除。
+- 请注意，本软件仅供学习研究使用，请合理使用，不得用于非法用途。本软件作者不会对您可能承担的任何风险和您使用本软件造成的任何影响负任何责任。认为此程序有风险的，请谨慎安装。
